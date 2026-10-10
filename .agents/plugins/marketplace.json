@@ -1,0 +1,20 @@
+{
+  "name": "nika",
+  "interface": {
+    "displayName": "Codename Nika"
+  },
+  "plugins": [
+    {
+      "name": "nika",
+      "source": {
+        "source": "local",
+        "path": "./plugins/nika"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

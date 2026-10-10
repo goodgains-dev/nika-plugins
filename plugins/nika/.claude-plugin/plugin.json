@@ -1,0 +1,15 @@
+{
+  "name": "nika",
+  "displayName": "Codename Nika",
+  "version": "1.0.0",
+  "description": "Your Nika businesses (profile, brand kit, website), AI team, tasks and Library — inside Claude Code. Sign in with your Nika account the first time you use it.",
+  "author": {
+    "name": "Codename Nika",
+    "email": "hello@codename-nika.com",
+    "url": "https://www.codename-nika.com"
+  },
+  "homepage": "https://www.codename-nika.com/settings/ai/",
+  "repository": "https://github.com/goodgains-dev/nika-plugins",
+  "license": "MIT",
+  "keywords": ["nika", "business", "brand", "ai-team", "library", "mcp"]
+}

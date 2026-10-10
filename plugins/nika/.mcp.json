@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nika": {
+      "type": "http",
+      "url": "https://www.codename-nika.com/api/mcp/nika/"
+    }
+  }
+}

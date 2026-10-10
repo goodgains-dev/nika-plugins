@@ -1,0 +1,18 @@
+{
+  "name": "nika",
+  "owner": {
+    "name": "Codename Nika",
+    "email": "hello@codename-nika.com",
+    "url": "https://www.codename-nika.com"
+  },
+  "description": "Codename Nika for Claude Code: your businesses, AI team, tasks and Library.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "nika",
+      "source": "./plugins/nika",
+      "description": "Your Nika businesses (profile, brand kit, website), AI team, tasks and Library — inside Claude Code.",
+      "version": "1.0.0"
+    }
+  ]
+}
