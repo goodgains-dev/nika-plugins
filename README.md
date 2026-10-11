@@ -28,9 +28,10 @@ claude mcp add --transport http nika https://www.codename-nika.com/api/mcp/nika/
 
 ```
 codex plugin marketplace add goodgains-dev/nika-plugins
+codex plugin add nika@nika
 ```
 
-Then install **Codename Nika** from the plugin list. Or add only the tools:
+Or add only the tools:
 
 ```
 codex mcp add nika --url https://www.codename-nika.com/api/mcp/nika/
