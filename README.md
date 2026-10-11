@@ -56,9 +56,8 @@ claude mcp add --transport http nika https://www.codename-nika.com/api/mcp/nika/
 .agents/plugins/marketplace.json    Codex marketplace
 plugins/nika/
   .claude-plugin/plugin.json        Claude Code manifest
-  plugin.json                       Codex (portable) manifest
-  .mcp.json                         Claude Code: the Nika MCP server
-  mcp.json                          Codex: the Nika MCP server (OAuth, dynamic registration)
+  .codex-plugin/plugin.json         Codex manifest
+  .mcp.json                         the Nika MCP server (both; OAuth with dynamic registration)
   skills/
     nika-business/                  use the business's real brand
     nika-tasks/                     hand work to Nika
